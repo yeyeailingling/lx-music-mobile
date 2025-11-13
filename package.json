@@ -1,5 +1,5 @@
 {
-  "name": "lx-music-mobile",
+  "name": heiye-music-mobile",
   "version": "1.7.1",
   "versionCode": 71,
   "private": true,
@@ -35,8 +35,8 @@
     "react-native-app"
   ],
   "author": {
-    "name": "lyswhut",
-    "email": "lyswhut@qq.com"
+    "name": "heiye",
+    "email": "heiye917@qq.com"
   },
   "license": "Apache-2.0",
   "bugs": {
